@@ -379,7 +379,7 @@ function createGlobalControls() {
   scenarioSelect.option("Free play (manual)", "custom");
   scenarioSelect.option("Normal market", "baseline");
   scenarioSelect.option("More buyers arrive (more demand)", "demand_boom");
-  scenarioSelect.option("Lower production (less supply)", "supply_shock");
+  scenarioSelect.option("Low production (less supply)", "supply_shock");
   scenarioSelect.option("Max price (ceiling)", "ceiling");
   scenarioSelect.option("Min price (floor)", "floor");
   scenarioSelect.option("Tax on sellers", "tax");
